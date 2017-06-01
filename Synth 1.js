@@ -6,16 +6,18 @@
 // is used to create the audio system
     var audio_context = window.AudioContext || window.webkitAudioContext;
     
-// create the audio system
+// create audio system
     var con = new audio_context();
     
 // create an oscillator
     var osc = con.createOscillator();
     
-// connect the oscillator to the audio output
+// connect oscillator to audio output
     osc.connect(con.destination);
     
-// start the oscillator
+// start oscillator
     osc.start();
+    
+// Headphone Users: Turn down volume!
     
 </script>
