@@ -8,3 +8,10 @@
       - Oscillator Parameters & Modulation
       - Triggerable Envelopes
       - ...
+
+
+## Environments & Languages
+    
+      - ChucK
+      - CodeCircle (Goldsmiths University)
+      - EarSketch  (Georgia Tech)
