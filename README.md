@@ -13,7 +13,21 @@
 ## Environments & Languages
     
       - ChucK
+      - MUSIC-N
+      - Csound
+      - RTcmix                                --> (C, C++, Java, Python, Tcl, Lua, Lisp, Scheme, etc)
+      - Pure Data
+      - Max/MSP
+      - LADSPA Framework
+      - VST
       - CodeCircle (Goldsmiths University)
       - EarSketch  (Georgia Tech)
       - Alda
       - Bipscript
+      - SuperCollider
+      - JSyn
+      - Common Lisp Music
+      - Reaktor
+      - FAUST
+      - Impromptu
+      - Kyma
