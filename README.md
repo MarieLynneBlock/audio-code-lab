@@ -14,8 +14,8 @@
     
       - ChucK
       - MUSIC-N
-      - Csound
-      - RTcmix
+      - Csound
+      - RTcmix
       - Pure Data
       - Max/MSP
       - LADSPA Framework
