@@ -7,11 +7,11 @@
     onmousemove="osc.frequency.value = event.clientY;"
     onmousedown="osc.start()"
    
-   <h2> Click anywhere in the black area and move the mouse to start</h2>
-
+   <h2> Click anywhere in the black area and move the mouse to start </h2>
 </div>
 
 </body>
+
 
 <script>
 
