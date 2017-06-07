@@ -15,7 +15,7 @@
       - ChucK
       - MUSIC-N
       - Csound
-      - RTcmix                                --> (C, C++, Java, Python, Tcl, Lua, Lisp, Scheme, etc)
+      - RTcmix
       - Pure Data
       - Max/MSP
       - LADSPA Framework
@@ -31,3 +31,5 @@
       - FAUST
       - Impromptu
       - Kyma
+      
+               --> (C, C++, Java, Python, Tcl, Lua, Lisp, Scheme, etc
