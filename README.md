@@ -15,3 +15,5 @@
       - ChucK
       - CodeCircle (Goldsmiths University)
       - EarSketch  (Georgia Tech)
+      - Alda
+      - Bipscript
