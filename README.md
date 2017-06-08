@@ -1,6 +1,6 @@
 # ElectronicMusicTools
 
-  Some Creative Computing projects focussed on music (Sound Synthesis & Sound Design):
+  Some Creative Computing projects focussed on Sound Synthesis & Sound Design:
 
       - Algorithms 
       - Sound Synthesis
