@@ -13,7 +13,7 @@ Creative Computing projects focussed on Sound Design & Sound Synthesis: design n
 ## Environments & Languages
     
       - ChucK
-- __MUSIC-N Languages__: they have very similar model behind them to the analogue synthesis model, where unit generators (modules) and unit generators would be wired together effectively and programmatically into synthesis graphs, which generates sound.
+- __MUSIC-N Languages__: have very similar model behind them to the analogue synthesis model, where unit generators (modules) would be wired together effectively and programmatically into synthesis graphs, which generates sound.
 
 
       - Csound
