@@ -22,7 +22,7 @@ Creative Computing projects focussed on Sound Design & Sound Synthesis: design n
       - VST
       
  - __CodeCircle__ (Goldsmiths University): browser based software development environment developed by Goldsmiths University, as well as a social environment to collaborate with other coders and musicians.  
-                  \[JavaScript]
+                  \[*JavaScript*]
  
       - EarSketch  (Georgia Tech)
       - Alda
