@@ -46,7 +46,7 @@ Creative Computing projects focussed on Sound Design & Sound Synthesis: design n
 
 ### Portfolio 
 
-- 1. Sound Synthesis:  
+*\- 1. Sound Synthesis:* 
       \- sound synthesis graphs and unit generators  
       \- implement basic synthesis graphs using web audio API  
       \- work with amplitude, pitch and timbre  
