@@ -52,8 +52,8 @@ Creative Computing projects focussed on Sound Design & Sound Synthesis: design n
       - work with amplitude, pitch and timbre  
       - respond to user input  
 
-      - Wiring an oscillator to the audio output
-      - Setting oscillator parameters from code
-      - Using oscillators to modulate other oscillators
-      - Shaping amplitude using a triggerable envelope
-      - Taking user input from the keyboard and mouse
+      - Wiring an oscillator to the audio output  
+      - Setting oscillator parameters from code  
+      - Using oscillators to modulate other oscillators  
+      - Shaping amplitude using a triggerable envelope  
+      - Taking user input from the keyboard and mouse
