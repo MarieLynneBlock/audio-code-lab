@@ -20,7 +20,9 @@ Creative Computing projects focussed on Sound Design & Sound Synthesis: design n
       - Max/MSP
       - LADSPA Framework
       - VST
-      - CodeCircle (Goldsmiths University)
+      
+ - CodeCircle (Goldsmiths University): browser based software development environment developed by Goldsmiths University, as well as a social environment to collaborate with other coders and musicians.
+ 
       - EarSketch  (Georgia Tech)
       - Alda
       - Bipscript
