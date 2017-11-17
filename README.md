@@ -30,6 +30,10 @@ Creative Computing projects focussed on Sound Design & Sound Synthesis: design n
 
 - __CodeCircle__ (Goldsmiths University): browser based software development environment developed by Goldsmiths University, as well as a social environment to collaborate with other coders and musicians.  
                   \[*JavaScript*]  
+               
+- __EarSketch__  (Georgia Tech): web-based music, composition and remix environment that comprises different elements: DAW, code editor, console and a sound browser.
+(The sound library was created by Young Guru and Richard Devine)
+                  \[*JavaScript, Python*]
                   
 
 ### General Languages, music libraries, frameworks
@@ -38,7 +42,7 @@ Creative Computing projects focussed on Sound Design & Sound Synthesis: design n
 
 - __VST__: software interface that integrates software audio synthesizer and effect plugins with audio editors and recording systems. VST and similar technologies use digital signal processing to simulate traditional recording studio hardware in software. 
 
-      - EarSketch  (Georgia Tech)
+   EarSketch  (Georgia Tech)
       - Alda
       - Bipscript
       - SuperCollider
