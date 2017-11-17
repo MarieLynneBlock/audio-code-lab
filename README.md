@@ -40,19 +40,22 @@ visit [Alda on GitHub](https://github.com/alda-lang/alda).
 (The sound library was created by Young Guru and Richard Devine)
                   \[*JavaScript, Python*]
 
+- __Reaktor__ (Native Instruments): graphical modular software music studio. It lets musicians and sound specialists design and build their own instruments, samplers, effects and sound design tools.
+
 - __SuperCollider__: platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound existing out of 3 major components: scsynth, a real-time audio server; sclang, an interpreted programming language; scide, an editor for sclang.
                   
 
 ### General Languages, music libraries, frameworks:
+
+- __CLM__: (Common Lisp Music) is a music synthesis and signal processing package in the Music V family. It runs in a number of various Lisp implementations or as a part of the Snd audio editor (using Scheme, Ruby and now Forth). There is also a realtime implementation, Snd-rt.
+
+- __JSyn__: Java audio synthesizer library with unit generators, used to generate sound effects, audio environments, or music.
 
 - __LADSPA__: "Linux Audio Developer's Simple Plugin API" is an API standard for handling audio filters and audio signal processing effects Framework. LADSPA exists primarily as a header file written in C.
 
 - __VST__: software interface that integrates software audio synthesizer and effect plugins with audio editors and recording systems. VST and similar technologies use digital signal processing to simulate traditional recording studio hardware in software. 
 
 
-      - JSyn
-      - Common Lisp Music
-      - Reaktor
       - FAUST
       - Impromptu
       - Kyma
