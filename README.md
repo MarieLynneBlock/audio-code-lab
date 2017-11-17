@@ -14,6 +14,8 @@ Creative Computing projects focussed on Sound Design & Sound Synthesis: design n
 
 
 #### Domain Specific Languages
+#### Front-ends, IDEs and music composition environments
+#### General Languages, music libraries
 
 - __ChucK__: audio programming language for real-time synthesis, composition, and performance. It is designed to favor readability and flexibility for the programmer over other considerations such as raw performance.
 
