@@ -14,21 +14,27 @@ Creative Computing projects focussed on Sound Design & Sound Synthesis: design n
 
 
 #### Domain Specific Languages
-#### Front-ends, IDEs and music composition environments
-#### General Languages, music libraries
 
 - __ChucK__: audio programming language for real-time synthesis, composition, and performance. It is designed to favor readability and flexibility for the programmer over other considerations such as raw performance.
 
-- __CodeCircle__ (Goldsmiths University): browser based software development environment developed by Goldsmiths University, as well as a social environment to collaborate with other coders and musicians.  
-                  \[*JavaScript*]
 - __Csound__: audio DSL, written in C, based on the earlier system called Music 11.
+
+- __Max/MSP__: visual programming language for music and multimedia. It has been used by composers, performers, software designers, researchers, and artists to create recordings, performances, and installations.
 
 - __MUSIC-N Languages__: have very similar model behind them to the analogue synthesis model, where unit generators (modules) would be wired together effectively and programmatically into synthesis graphs, which generates sound.
 
+- __Pure Data (Pd)__: visual programming language for creating interactive computer music and multimedia works.
 
 
-      - Pure Data
-      - Max/MSP
+#### Front-ends, IDEs and music composition environments
+
+- __CodeCircle__ (Goldsmiths University): browser based software development environment developed by Goldsmiths University, as well as a social environment to collaborate with other coders and musicians.  
+                  \[*JavaScript*]
+                  
+
+#### General Languages, music libraries, frameworks
+
+
       - LADSPA Framework
       - VST
       - EarSketch  (Georgia Tech)
