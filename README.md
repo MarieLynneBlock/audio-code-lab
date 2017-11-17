@@ -22,6 +22,10 @@ visit [Alda on GitHub](https://github.com/alda-lang/alda).
 
 - __Csound__: audio DSL, written in C, based on the earlier system called Music 11.
 
+- __FAUST__: (Functional AUdio STream) a domain-specific purely functional programming language for implementing signal processing algorithms in the form of libraries, audio plug-ins, or standalone applications.
+
+- __Kyma__: visual programming language with characteristics of both object-oriented and functional programming languages for sound design used by musicians, researchers, and sound designers. It programs a multiprocessor DSP by graphically connecting modules.
+
 - __Max/MSP__: visual programming language for music and multimedia. It has been used by composers, performers, software designers, researchers, and artists to create recordings, performances, and installations.
 
 - __MUSIC-N Languages__: have very similar model behind them to the analogue synthesis model, where unit generators (modules) would be wired together effectively and programmatically into synthesis graphs, which generates sound.
@@ -29,7 +33,7 @@ visit [Alda on GitHub](https://github.com/alda-lang/alda).
 - __Pure Data (Pd)__: visual programming language for creating interactive computer music and multimedia works. 
 
 
-### Front-ends, IDEs and music composition environments:
+### Front-ends, IDEs & music composition environments:
 
 - __Bipscript__: a simple programming environment for creating music.
 
@@ -39,13 +43,15 @@ visit [Alda on GitHub](https://github.com/alda-lang/alda).
 - __EarSketch__  (Georgia Tech): web-based music, composition and remix environment that comprises different elements: DAW, code editor, console and a sound browser.
 (The sound library was created by Young Guru and Richard Devine)
                   \[*JavaScript, Python*]
+   
+- __Impromptu__: an OSX programming language and environment for composers, sound artists, VJ's and graphic artists with an interest in live or interactive programming. Impromptu is a Scheme language environment (Lisp family).
 
 - __Reaktor__ (Native Instruments): graphical modular software music studio. It lets musicians and sound specialists design and build their own instruments, samplers, effects and sound design tools.
 
 - __SuperCollider__: platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound existing out of 3 major components: scsynth, a real-time audio server; sclang, an interpreted programming language; scide, an editor for sclang.
                   
 
-### General Languages, music libraries, frameworks:
+###  Music libraries, frameworks & packages:
 
 - __CLM__: (Common Lisp Music) is a music synthesis and signal processing package in the Music V family. It runs in a number of various Lisp implementations or as a part of the Snd audio editor (using Scheme, Ruby and now Forth). There is also a realtime implementation, Snd-rt.
 
@@ -56,9 +62,14 @@ visit [Alda on GitHub](https://github.com/alda-lang/alda).
 - __VST__: software interface that integrates software audio synthesizer and effect plugins with audio editors and recording systems. VST and similar technologies use digital signal processing to simulate traditional recording studio hardware in software. 
 
 
-      - FAUST
-      - Impromptu
-      - Kyma
-      
-               --> (C, C++, Java, Python, Tcl, Lua, Lisp, Scheme, etc)
+### General Programming Languages:
+
+- C
+- C++
+- Java
+- Python
+- Tcl
+- Lua
+- Lisp
+- Scheme
 -----------------
