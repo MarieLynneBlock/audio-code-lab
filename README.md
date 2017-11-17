@@ -11,7 +11,10 @@ Creative Computing projects focussed on Sound Design & Sound Synthesis: design n
 
 
 ## Environments & Languages
-    
+
+
+#### Domain Specific Languages
+
 - __ChucK__: audio programming language for real-time synthesis, composition, and performance. It is designed to favor readability and flexibility for the programmer over other considerations such as raw performance.
 
 - __CodeCircle__ (Goldsmiths University): browser based software development environment developed by Goldsmiths University, as well as a social environment to collaborate with other coders and musicians.  
