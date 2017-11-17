@@ -15,6 +15,9 @@ Creative Computing projects focussed on Sound Design & Sound Synthesis: design n
 
 ### Domain Specific Languages
 
+- __Alda__: A music programming language for musicians, runs on Java 8+.
+[Alda on GitHub](https://github.com/alda-lang/alda)
+
 - __ChucK__: audio programming language for real-time synthesis, composition, and performance. It is designed to favor readability and flexibility for the programmer over other considerations such as raw performance.
 
 - __Csound__: audio DSL, written in C, based on the earlier system called Music 11.
@@ -42,7 +45,6 @@ Creative Computing projects focussed on Sound Design & Sound Synthesis: design n
 
 - __VST__: software interface that integrates software audio synthesizer and effect plugins with audio editors and recording systems. VST and similar technologies use digital signal processing to simulate traditional recording studio hardware in software. 
 
-   EarSketch  (Georgia Tech)
       - Alda
       - Bipscript
       - SuperCollider
