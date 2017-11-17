@@ -23,16 +23,16 @@ Creative Computing projects focussed on Sound Design & Sound Synthesis: design n
 
 - __MUSIC-N Languages__: have very similar model behind them to the analogue synthesis model, where unit generators (modules) would be wired together effectively and programmatically into synthesis graphs, which generates sound.
 
-- __Pure Data (Pd)__: visual programming language for creating interactive computer music and multimedia works.
+- __Pure Data (Pd)__: visual programming language for creating interactive computer music and multimedia works.  
 
 
 ### Front-ends, IDEs and music composition environments
 
 - __CodeCircle__ (Goldsmiths University): browser based software development environment developed by Goldsmiths University, as well as a social environment to collaborate with other coders and musicians.  
-                  \[*JavaScript*]
+                  \[*JavaScript*]  
                   
 
-#### General Languages, music libraries, frameworks
+### General Languages, music libraries, frameworks
 
 
       - LADSPA Framework
