@@ -10,10 +10,10 @@ Creative Computing projects focussed on Sound Design & Sound Synthesis: design n
       - ...
 
 
-## Environments, Languages & Frameworks used to create this repo:
+## Environments, Languages & Frameworks used to create this repo
 
 
-### Domain Specific Languages
+### Domain Specific Languages:
 
 - __Alda__: A music programming language for musicians, runs on Java 8+.
 visit [Alda on GitHub](https://github.com/alda-lang/alda).
@@ -29,7 +29,7 @@ visit [Alda on GitHub](https://github.com/alda-lang/alda).
 - __Pure Data (Pd)__: visual programming language for creating interactive computer music and multimedia works. 
 
 
-### Front-ends, IDEs and music composition environments
+### Front-ends, IDEs and music composition environments:
 
 - __Bipscript__: a simple programming environment for creating music.
 
@@ -43,7 +43,7 @@ visit [Alda on GitHub](https://github.com/alda-lang/alda).
 - __SuperCollider__: platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound existing out of 3 major components: scsynth, a real-time audio server; sclang, an interpreted programming language; scide, an editor for sclang.
                   
 
-### General Languages, music libraries, frameworks
+### General Languages, music libraries, frameworks:
 
 - __LADSPA__: "Linux Audio Developer's Simple Plugin API" is an API standard for handling audio filters and audio signal processing effects Framework. LADSPA exists primarily as a header file written in C.
 
