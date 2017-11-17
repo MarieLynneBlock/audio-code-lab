@@ -10,7 +10,7 @@ Creative Computing projects focussed on Sound Design & Sound Synthesis: design n
       - ...
 
 
-## Environments & Languages
+## Environments, Languages & Frameworks used to create this repo:
 
 
 ### Domain Specific Languages
