@@ -26,10 +26,12 @@ visit [Alda on GitHub](https://github.com/alda-lang/alda).
 
 - __MUSIC-N Languages__: have very similar model behind them to the analogue synthesis model, where unit generators (modules) would be wired together effectively and programmatically into synthesis graphs, which generates sound.
 
-- __Pure Data (Pd)__: visual programming language for creating interactive computer music and multimedia works.  
+- __Pure Data (Pd)__: visual programming language for creating interactive computer music and multimedia works. 
 
 
 ### Front-ends, IDEs and music composition environments
+
+- __Bipscript__: a simple programming environment for creating music.
 
 - __CodeCircle__ (Goldsmiths University): browser based software development environment developed by Goldsmiths University, as well as a social environment to collaborate with other coders and musicians.  
                   \[*JavaScript*]  
@@ -37,6 +39,8 @@ visit [Alda on GitHub](https://github.com/alda-lang/alda).
 - __EarSketch__  (Georgia Tech): web-based music, composition and remix environment that comprises different elements: DAW, code editor, console and a sound browser.
 (The sound library was created by Young Guru and Richard Devine)
                   \[*JavaScript, Python*]
+
+- __SuperCollider__: platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound existing out of 3 major components: scsynth, a real-time audio server; sclang, an interpreted programming language; scide, an editor for sclang.
                   
 
 ### General Languages, music libraries, frameworks
@@ -45,9 +49,7 @@ visit [Alda on GitHub](https://github.com/alda-lang/alda).
 
 - __VST__: software interface that integrates software audio synthesizer and effect plugins with audio editors and recording systems. VST and similar technologies use digital signal processing to simulate traditional recording studio hardware in software. 
 
-      - Alda
-      - Bipscript
-      - SuperCollider
+
       - JSyn
       - Common Lisp Music
       - Reaktor
