@@ -34,9 +34,10 @@ Creative Computing projects focussed on Sound Design & Sound Synthesis: design n
 
 ### General Languages, music libraries, frameworks
 
-- __LADSPA__: "Linux Audio Developer's Simple Plugin API". It is an API standard for handling audio filters and audio signal processing effects Framework. LADSPA exists primarily as a header file written in C.
+- __LADSPA__: "Linux Audio Developer's Simple Plugin API" is an API standard for handling audio filters and audio signal processing effects Framework. LADSPA exists primarily as a header file written in C.
 
-      - VST
+- __VST__: software interface that integrates software audio synthesizer and effect plugins with audio editors and recording systems. VST and similar technologies use digital signal processing to simulate traditional recording studio hardware in software. 
+
       - EarSketch  (Georgia Tech)
       - Alda
       - Bipscript
