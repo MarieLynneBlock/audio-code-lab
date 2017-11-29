@@ -1,23 +1,21 @@
+// Headphone Users: Turn down the volume!
+
 
 <script>
 
-// audio_context
-
-// is used to create the audio system
+    // Make it all-browsers compatible
     var audio_context = window.AudioContext || window.webkitAudioContext;
+
     
-// create audio system
+    // Create Audio Engine
     var con = new audio_context();
-    
-// create an oscillator
+        // create Oscillator
     var osc = con.createOscillator();
     
-// connect oscillator to audio output
+        // connect to audio output
     osc.connect(con.destination);
     
-// start oscillator
     osc.start();
-    
-// Headphone Users: Turn down volume!
-    
+
 </script>
+    
