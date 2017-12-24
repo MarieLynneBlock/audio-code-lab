@@ -1,9 +1,7 @@
 <body>
     <div
-    style="background:black;height:100%"
-    onmousemove="lfo.frequency.value = event.clientX"
-       >
-        
+        style="background:black;height:100%"
+        onmousemove="lfo.frequency.value = event.clientX">   
     </div>
 </body>
 
