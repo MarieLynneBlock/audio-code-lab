@@ -57,6 +57,8 @@ visit [Alda on GitHub](https://github.com/alda-lang/alda).
 
 ###  Music libraries, frameworks & packages:
 
+- __Web Audio API__: powerful and versatile system for controlling audio on the Web, allowing developers to choose audio sources, add effects to audio, create audio visualizations, apply spatial effects (such as panning) and much more.
+
 - __CLM__: (Common Lisp Music) is a music synthesis and signal processing package in the Music V family. It runs in a number of various Lisp implementations or as a part of the Snd audio editor (using Scheme, Ruby and now Forth). There is also a realtime implementation, Snd-rt.
 
 - __JSyn__: Java audio synthesizer library with unit generators, used to generate sound effects, audio environments, or music.
